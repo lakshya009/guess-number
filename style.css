@@ -45,7 +45,7 @@ input[type="text"]{
     margin-bottom: 3%;
     background-color: hsl(193, 38%, 86%);
     outline: none;
-
+    color: black;
 }
 #btn:hover{
     background-color: hsl(217, 19%, 24%);
