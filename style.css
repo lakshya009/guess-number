@@ -50,6 +50,23 @@ input[type="text"]{
 #btn:hover{
     background-color: hsl(217, 19%, 24%);
 }
+#btn2{
+    display: none;
+    cursor: pointer;
+    width: 150px;
+    padding: 15px 0;
+    border-radius: 60px;
+    color: #0066b2;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 3%;
+    background-color: hsl(193, 38%, 86%);
+    outline: none;
+}
+#btn2:hover{
+    background-color: hsl(217, 19%, 24%);
+}
 @media only screen and (max-width: 420px) {
     .container {
       font-size: 28px;
